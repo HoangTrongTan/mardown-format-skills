@@ -21,8 +21,14 @@
 ```
 
 ## Cú pháp để tạo đường link
-basic: ```bash [Google](https://www.google.com) ```
-Thêm tiêu đề (tooltip khi hover): ```bash [Google](https://www.google.com "Công cụ tìm kiếm") ```
+basic: 
+```bash 
+[Google](https://www.google.com) 
+```
+Thêm tiêu đề (tooltip khi hover): 
+```bash 
+[Google](https://www.google.com "Công cụ tìm kiếm") 
+```
 Liên kết tham chiếu (Reference-style links): 
 ```bash
 [Google][google-link]
@@ -30,22 +36,36 @@ Liên kết tham chiếu (Reference-style links):
 ```
 👉 [Google][google-link]
 [google-link]: https://www.google.com "Công cụ tìm kiếm"
-Liên kết nội bộ (Anchor link đến heading): ```bash [Đến phần Giới thiệu](#giới-thiệu) ```
-👉 [Đến phần Hướng dẫn tạo markdown chuyên nghiệp](#hướng-dẫn-tạo-markdown-chuyên-nghiệp)
-Liên kết kèm hình ảnh: ```bash [![Alt text](https://via.placeholder.com/150)](https://example.com) ```
+Liên kết nội bộ (Anchor link đến heading): 
+```bash 
+[Đến phần Giới thiệu](#giới-thiệu) 
+```
+👉 [Đến phần Hướng dẫn tạo markdown chuyên nghiệp](#hướng-dẫn-tạo-markdown-chuyên-nghiệp "Liên kết đến phần tạo markdown chuyên nghiệp")
+Liên kết kèm hình ảnh: 
+```bash 
+[![Alt text](https://via.placeholder.com/150)](https://example.com) 
+```
 👉 [![Alt text](https://gratisography.com/wp-content/uploads/2024/11/gratisography-augmented-reality-800x525.jpg)](https://gratisography.com/wp-content/uploads/2024/11/gratisography-augmented-reality-800x525.jpg)
-Liên kết email: ```bash <mailto:example@gmail.com> ``` 
+Liên kết email: 
+```bash 
+<mailto:example@gmail.com> 
+``` 
 👉 <mailto:example@gmail.com>
 
 ## Tạo Badge "xịn xò" cho Profile (Shields.io)
 [Link logo](https://shields.io/ "link dẫn đến trang tạo badge")
-Ví dụ: ```bash ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ```
+Ví dụ: 
+```bash 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+```
 * **Style:** ![Style](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge)
 * **Color (named):** ![Color (named)](https://img.shields.io/badge/coverage-95%25-orange)
 * **Logo:** ![Logo](https://img.shields.io/badge/github-repo-blue?logo=github)
 
 ## Checklist tương tác
-```bash Cú pháp: - [x] cho mục đã xong và - [ ] cho mục chưa xong. ```
+```bash 
+Cú pháp: - [x] cho mục đã xong và - [ ] cho mục chưa xong. 
+```
 * - [x] 🧩 Bước 1: Kiểm tra máy (Xong)
 * - [ ] 📦 Bước 2: Tải Docker Desktop
 * - [ ] ⚙️ Bước 3: Cấu hình môi trường
