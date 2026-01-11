@@ -97,4 +97,7 @@ Nhấn <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> để mở Command Pale
 
 ## Tạo thanh tiến độ (Progress Bar) bằng HTML
 <progress value="75" max="100"></progress> 75%
-cú pháp: ```html <progress value="75" max="100"></progress> 75% ```
+cú pháp: 
+```html 
+<progress value="75" max="100"></progress> 75% 
+```
