@@ -83,7 +83,7 @@ Ví dụ:
 ```html 
 Nhấn <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> để mở Command Palette. 
 ```
-
+👉 <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> để mở Command Palette.
 
 ## Quote "đặc biệt" (Alerts) trên GitHub
 > [!NOTE]
