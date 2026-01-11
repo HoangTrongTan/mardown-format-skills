@@ -79,7 +79,11 @@ Cú pháp: - [x] cho mục đã xong và - [ ] cho mục chưa xong.
 Cú pháp: ```bash Dấu : giúp căn lề (Trái :---, Phải ---:, Giữa :---:) ```
 
 ## Sử dụng "Keyboard Key" HTML Tag
-Ví dụ: ```bash Nhấn <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> để mở Command Palette. ```
+Ví dụ: 
+```html 
+Nhấn <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd> để mở Command Palette. 
+```
+
 
 ## Quote "đặc biệt" (Alerts) trên GitHub
 > [!NOTE]
